@@ -7,3 +7,6 @@
   utilizando canvas e javascript quase sem usar folhas de estilo foi totalmente
   desenvolvido com javascript!!, Espero que curtam.</p>
   
+  
+  
+![pacmanimg](https://user-images.githubusercontent.com/93164654/166339678-e5d839af-93a1-4cd1-95b5-75028669c079.png)
