@@ -8,5 +8,7 @@
   desenvolvido com javascript!!, Espero que curtam.</p>
   
   
+  <h1> Endereço do Link pra voce Jogar! : https://fancy-licorice-f753de.netlify.app/ </h1>
+  
   
 ![pacmanimg](https://user-images.githubusercontent.com/93164654/166339678-e5d839af-93a1-4cd1-95b5-75028669c079.png)
